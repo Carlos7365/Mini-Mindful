@@ -249,8 +249,7 @@ h4 {
   height: 80%;
   background-position: center;
   background-repeat: no-repeat;
-  /* background-size: auto, 90vh; */
-  background-size: cover;
+  background-size: auto, 90vh;
   background-attachment: fixed;
   position: relative;
 }
